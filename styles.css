@@ -1,9 +1,10 @@
-.container{
+.holder{
 	display:flex;
+	justify-content:center;
     flex-wrap:wrap;
 }
 
-.holder{
+.can{
 	height:50px;
 	width:50px
 }
